@@ -1,0 +1,141 @@
+body
+{
+	background-image: url("matematika.jpg");
+	font-family: Blippo ;
+	font-size:25px;
+	background-attachment: fixed;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#button
+{
+	width: 30%;
+	height: 50px;
+	font-size: 20px;
+	font-family: times;
+	background-color: #blue;
+	border: 0;
+	margin-top: 20px;
+    margin: 10px 10px 10px 15px;
+    align-items: center;
+    text-align: center;   
+}
+
+h1
+{
+	text-align: center;
+	font-family: times;
+}
+
+#menu
+{
+    display: grid;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+
+#leiras
+{
+	text-align: justify;
+    font-family: monospace;
+	font-size:25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#focim
+{
+    font-family: times;
+    text-align: center;
+    font-size: 80px;
+}
+
+#vonal
+{
+    border-top: 2px solid black;
+}
+
+#tablazat
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+tr, th, td {
+  padding: 5px;
+  text-align: left;    
+}
+
+#megoldasok
+{
+    width: 250px;
+	height: 50px;
+	font-size: 20px;
+	font-family: lato;
+    transition-duration: 0.5s;
+}
+
+#valaszok
+{
+   font-family: Syne Mono;
+   font-size: 20px;
+}
+
+#feladatok
+{
+    font-family: Itim;
+    font-size: 20px;
+}
+
+#abc
+{
+    font-family: Pacifico;
+}
+
+#content
+{
+    width: 400px;
+    background: #fff;
+    padding: 20px;
+    font-family: calibri;
+    font-size: 18px;
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max—height 0.7s;
+}
+
+#show-more {
+    background: #1594e5;
+    color: #fff;
+    font-family: calibri;
+    display: block;
+    width: 140px;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: center;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+#gombutmutato
+{
+    width: 250px;
+	height: 50px;
+	font-size: 20px;
+	font-family: lato;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+h5
+{
+    font-family: times;
+}
